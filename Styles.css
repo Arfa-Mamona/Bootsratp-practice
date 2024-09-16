@@ -1,0 +1,39 @@
+.btn-primary {
+    background-color: #ff6600; 
+    border-color: #ff6600;
+}
+
+
+.jumbotron {
+    background-color: #f0f8ff;
+    color: #333;  
+}
+
+
+.table th {
+    background-color: #4CAF50;
+    color: white; 
+}
+
+
+p {
+    margin-bottom: 1.5rem;
+}
+
+
+.navbar {
+    background-color: #007bff;
+}
+
+
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    transform: scale(1.05); 
+}
+
+
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+}
