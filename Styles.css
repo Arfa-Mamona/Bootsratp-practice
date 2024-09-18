@@ -1,31 +1,29 @@
-
 .btn-custom {
-    background-color: #ff8800;
-    color: white;
-    border-radius: 20px;
-    padding: 10px 20px;
-  }
-  
+  background-color: #ff8800;
+  color: white;
+  border-radius: 20px;
+  padding: 10px 20px;
+}
 
-  .jumbotron-custom {
-    background-color: #007bff;
-    color: white;
-  }
-  
- 
-  thead th {
-    background-color: #343a40;
-    color: white;
-  }
-  
-  
-  .custom-modal .modal-header {
-    background-color: #007bff;
-    color: white;
-  }
-  
+.jumbotron-custom {
+  background-color: #007bff;
+  color: white;
+}
 
-  .media img {
-    border-radius: 50%;
-  }
-  
+thead th {
+  background-color: #343a40;
+  color: white;
+}
+
+.custom-modal .modal-header {
+  background-color: #007bff;
+  color: white;
+}
+
+.media img {
+  border-radius: 50%;
+}
+
+.filter {
+  filter: grayscale(100%);
+}
