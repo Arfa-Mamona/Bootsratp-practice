@@ -1,39 +1,31 @@
-.btn-primary {
-    background-color: #ff6600; 
-    border-color: #ff6600;
-}
 
+.btn-custom {
+    background-color: #ff8800;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 20px;
+  }
+  
 
-.jumbotron {
-    background-color: #f0f8ff;
-    color: #333;  
-}
-
-
-.table th {
-    background-color: #4CAF50;
-    color: white; 
-}
-
-
-p {
-    margin-bottom: 1.5rem;
-}
-
-
-.navbar {
+  .jumbotron-custom {
     background-color: #007bff;
-}
+    color: white;
+  }
+  
+ 
+  thead th {
+    background-color: #343a40;
+    color: white;
+  }
+  
+  
+  .custom-modal .modal-header {
+    background-color: #007bff;
+    color: white;
+  }
+  
 
-
-.card:hover {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
-    transform: scale(1.05); 
-}
-
-
-.footer {
-    background-color: #f8f9fa;
-    padding: 20px;
-    text-align: center;
-}
+  .media img {
+    border-radius: 50%;
+  }
+  
